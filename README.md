@@ -1,0 +1,2 @@
+# IA-local
+Santé rapide
